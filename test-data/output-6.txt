@@ -1,0 +1,4 @@
+# A GT4500 inicializálásának válasza
+SUCCESS
+# A lövés kimenete (sikertelen)
+FAIL

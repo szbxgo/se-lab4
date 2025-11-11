@@ -1,0 +1,3 @@
+# Teszteset 11: ALL mód, Primary hibázik, Secondary sikeres
+GT4500,10,1.0,10,0
+TORPEDO,ALL

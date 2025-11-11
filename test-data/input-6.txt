@@ -1,0 +1,3 @@
+# Teszteset 6: Primary hibát jelez, a hajó nem próbálja a Secondary-t
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+# Teszteset 4: Primary üres, a hajó a Secondary-t használja
+GT4500,0,0,10,0
+TORPEDO,SINGLE
