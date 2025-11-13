@@ -1,0 +1,6 @@
+# A GT4500 válasza
+SUCCESS
+# Az első lövés kimenete (Primary)
+SUCCESS
+# A második lövés kimenete (Secondary)
+SUCCESS
